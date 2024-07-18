@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AMAAN
 - 👀 I’m interested in CODING,PLAYING,CODING
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning PYTHON ==> c++ ==> JAVA
 - 💞️ I’m looking to collab
 <!---
 AMAAN0001/AMAAN0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
